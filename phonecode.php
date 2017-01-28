@@ -26,3 +26,6 @@ public function zr_dxyzm_ajax(){
 	}
 	
 }
+?>
+
+
